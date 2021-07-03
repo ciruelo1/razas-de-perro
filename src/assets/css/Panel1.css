@@ -1,0 +1,25 @@
+.select {
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.panel div {
+    width: auto;
+    max-width: 500px;
+    min-width: 500px;
+    height: auto;
+    border: 3px solid black;
+    margin: 0%;
+}
+
+.panel div img {
+    min-width: 300px;
+    min-height: 300px;
+    max-width: 500px;
+    max-height: 500px;
+    width: 500px;
+    margin: 0px;
+}
